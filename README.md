@@ -3,4 +3,4 @@ Projetocrudlauro Como enviei o arquivo Word pelo teams e lá não estava complet
 
 Exemplo de como funciona o projeto recomendado pelo professor lauro.
 
-https://github.com/Mateusdiniz15/Lauroprojeto/issues/1
+https://github.com/Mateusdiniz15/Lauroprojeto/issues
